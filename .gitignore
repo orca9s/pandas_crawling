@@ -1,3 +1,5 @@
+*.csv
+*.xlsx
 # Project Secrets
 /.secrets
 # Django Static files path
